@@ -7,7 +7,7 @@ int main()
 
     cout << "The value of a is "<< a <<"\n";
 
-    a--;
+    a = a + 1;
 
     cout << "The value of a is "<< a <<"\n";
 
